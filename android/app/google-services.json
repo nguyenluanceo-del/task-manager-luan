@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191423138664",
+    "project_id": "task-manager-luan",
+    "storage_bucket": "task-manager-luan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191423138664:android:e7e73257f38921e4d324dd",
+        "android_client_info": {
+          "package_name": "com.example.task_manager_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD85HjoLSKH9fqQG_jCOT9t0t5N4wpSjnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
